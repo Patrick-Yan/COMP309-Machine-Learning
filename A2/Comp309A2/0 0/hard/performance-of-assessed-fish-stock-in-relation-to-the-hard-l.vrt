@@ -1,0 +1,9 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="performance-of-assessed-fish-stock-in-relation-to-the-hard-l">
+    <SrcDataSource relativeToVRT="1">performance-of-assessed-fish-stock-in-relation-to-the-hard-l.csv</SrcDataSource>
+    <FeatureCount>14</FeatureCount>
+    <Field name="year" src="year" type="String" />
+    <Field name="performance_of_stocks_hard_limit" src="performance_of_stocks_hard_limit" type="String" />
+    <Field name="percent" src="percent" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

@@ -1,0 +1,90 @@
+@relation Appended_2_sets
+
+@attribute ﻿year numeric
+@attribute value_above numeric
+@attribute ﻿species {Blue_Cod,Hoki,Ling,Orange_Roughy,Paua,Rock_Lobster,Scampi,Silver_Warehou,Snapper,Southern_Blue_Whiting}
+@attribute year numeric
+@attribute variable {TACC}
+@attribute units {Tonnes}
+@attribute magnitude {Actual}
+@attribute source {Environmental_Accounts}
+@attribute data_value numeric
+
+@data
+2009,537924.494,?,?,?,?,?,?,?
+2010,569418.38,?,?,?,?,?,?,?
+2011,582795.149,?,?,?,?,?,?,?
+2012,597339.721,?,?,?,?,?,?,?
+2013,594250.303,?,?,?,?,?,?,?
+2014,620038.245,?,?,?,?,?,?,?
+2015,642491.124,?,?,?,?,?,?,?
+?,?,Hoki,2009,TACC,Tonnes,Actual,Environmental_Accounts,90010
+?,?,Hoki,2010,TACC,Tonnes,Actual,Environmental_Accounts,110010
+?,?,Hoki,2011,TACC,Tonnes,Actual,Environmental_Accounts,120010
+?,?,Hoki,2012,TACC,Tonnes,Actual,Environmental_Accounts,130010
+?,?,Hoki,2013,TACC,Tonnes,Actual,Environmental_Accounts,130010
+?,?,Hoki,2014,TACC,Tonnes,Actual,Environmental_Accounts,150010
+?,?,Hoki,2015,TACC,Tonnes,Actual,Environmental_Accounts,160010
+?,?,Ling,2009,TACC,Tonnes,Actual,Environmental_Accounts,21977.1
+?,?,Ling,2010,TACC,Tonnes,Actual,Environmental_Accounts,22226
+?,?,Ling,2011,TACC,Tonnes,Actual,Environmental_Accounts,22226
+?,?,Ling,2012,TACC,Tonnes,Actual,Environmental_Accounts,22226
+?,?,Ling,2013,TACC,Tonnes,Actual,Environmental_Accounts,22226
+?,?,Ling,2014,TACC,Tonnes,Actual,Environmental_Accounts,23192
+?,?,Ling,2015,TACC,Tonnes,Actual,Environmental_Accounts,23192
+?,?,Orange_Roughy,2009,TACC,Tonnes,Actual,Environmental_Accounts,12532
+?,?,Orange_Roughy,2010,TACC,Tonnes,Actual,Environmental_Accounts,11062
+?,?,Orange_Roughy,2011,TACC,Tonnes,Actual,Environmental_Accounts,8221
+?,?,Orange_Roughy,2012,TACC,Tonnes,Actual,Environmental_Accounts,6941
+?,?,Orange_Roughy,2013,TACC,Tonnes,Actual,Environmental_Accounts,6941
+?,?,Orange_Roughy,2014,TACC,Tonnes,Actual,Environmental_Accounts,7841
+?,?,Orange_Roughy,2015,TACC,Tonnes,Actual,Environmental_Accounts,8736
+?,?,Paua,2009,TACC,Tonnes,Actual,Environmental_Accounts,1058.5
+?,?,Paua,2010,TACC,Tonnes,Actual,Environmental_Accounts,1058.5
+?,?,Paua,2011,TACC,Tonnes,Actual,Environmental_Accounts,1058.5
+?,?,Paua,2012,TACC,Tonnes,Actual,Environmental_Accounts,1058.5
+?,?,Paua,2013,TACC,Tonnes,Actual,Environmental_Accounts,1058.5
+?,?,Paua,2014,TACC,Tonnes,Actual,Environmental_Accounts,1058.5
+?,?,Paua,2015,TACC,Tonnes,Actual,Environmental_Accounts,1058.5
+?,?,Rock_Lobster,2009,TACC,Tonnes,Actual,Environmental_Accounts,3021.4
+?,?,Rock_Lobster,2010,TACC,Tonnes,Actual,Environmental_Accounts,2802.5
+?,?,Rock_Lobster,2011,TACC,Tonnes,Actual,Environmental_Accounts,2847.7
+?,?,Rock_Lobster,2012,TACC,Tonnes,Actual,Environmental_Accounts,2833.1
+?,?,Rock_Lobster,2013,TACC,Tonnes,Actual,Environmental_Accounts,2850.6
+?,?,Rock_Lobster,2014,TACC,Tonnes,Actual,Environmental_Accounts,2895.7
+?,?,Rock_Lobster,2015,TACC,Tonnes,Actual,Environmental_Accounts,2898.2
+?,?,Scampi,2009,TACC,Tonnes,Actual,Environmental_Accounts,1291
+?,?,Scampi,2010,TACC,Tonnes,Actual,Environmental_Accounts,1291
+?,?,Scampi,2011,TACC,Tonnes,Actual,Environmental_Accounts,1291
+?,?,Scampi,2012,TACC,Tonnes,Actual,Environmental_Accounts,1191
+?,?,Scampi,2013,TACC,Tonnes,Actual,Environmental_Accounts,1191
+?,?,Scampi,2014,TACC,Tonnes,Actual,Environmental_Accounts,1224
+?,?,Scampi,2015,TACC,Tonnes,Actual,Environmental_Accounts,1224
+?,?,Snapper,2009,TACC,Tonnes,Actual,Environmental_Accounts,6357.3
+?,?,Snapper,2010,TACC,Tonnes,Actual,Environmental_Accounts,6357.3
+?,?,Snapper,2011,TACC,Tonnes,Actual,Environmental_Accounts,6357.3
+?,?,Snapper,2012,TACC,Tonnes,Actual,Environmental_Accounts,6357.3
+?,?,Snapper,2013,TACC,Tonnes,Actual,Environmental_Accounts,6357.3
+?,?,Snapper,2014,TACC,Tonnes,Actual,Environmental_Accounts,6357.3
+?,?,Snapper,2015,TACC,Tonnes,Actual,Environmental_Accounts,6357.3
+?,?,Blue_Cod,2009,TACC,Tonnes,Actual,Environmental_Accounts,2681.5
+?,?,Blue_Cod,2010,TACC,Tonnes,Actual,Environmental_Accounts,2681.5
+?,?,Blue_Cod,2011,TACC,Tonnes,Actual,Environmental_Accounts,2681.5
+?,?,Blue_Cod,2012,TACC,Tonnes,Actual,Environmental_Accounts,2331.6
+?,?,Blue_Cod,2013,TACC,Tonnes,Actual,Environmental_Accounts,2331.6
+?,?,Blue_Cod,2014,TACC,Tonnes,Actual,Environmental_Accounts,2331.6
+?,?,Blue_Cod,2015,TACC,Tonnes,Actual,Environmental_Accounts,2331.6
+?,?,Silver_Warehou,2009,TACC,Tonnes,Actual,Environmental_Accounts,10380.2
+?,?,Silver_Warehou,2010,TACC,Tonnes,Actual,Environmental_Accounts,10380.2
+?,?,Silver_Warehou,2011,TACC,Tonnes,Actual,Environmental_Accounts,10380.2
+?,?,Silver_Warehou,2012,TACC,Tonnes,Actual,Environmental_Accounts,10380.2
+?,?,Silver_Warehou,2013,TACC,Tonnes,Actual,Environmental_Accounts,10380.2
+?,?,Silver_Warehou,2014,TACC,Tonnes,Actual,Environmental_Accounts,10380.2
+?,?,Silver_Warehou,2015,TACC,Tonnes,Actual,Environmental_Accounts,10380.2
+?,?,Southern_Blue_Whiting,2009,TACC,Tonnes,Actual,Environmental_Accounts,36948
+?,?,Southern_Blue_Whiting,2010,TACC,Tonnes,Actual,Environmental_Accounts,41848
+?,?,Southern_Blue_Whiting,2011,TACC,Tonnes,Actual,Environmental_Accounts,44848
+?,?,Southern_Blue_Whiting,2012,TACC,Tonnes,Actual,Environmental_Accounts,43408
+?,?,Southern_Blue_Whiting,2013,TACC,Tonnes,Actual,Environmental_Accounts,43408
+?,?,Southern_Blue_Whiting,2014,TACC,Tonnes,Actual,Environmental_Accounts,43408
+?,?,Southern_Blue_Whiting,2015,TACC,Tonnes,Actual,Environmental_Accounts,53208
